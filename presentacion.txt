@@ -1,0 +1,2 @@
+archivo de texto de la presentacion.
+uso de git en integrador 2.
